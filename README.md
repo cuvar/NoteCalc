@@ -1,9 +1,9 @@
 # NoteCalc
-A little CLI-based tool for calculating school marks in Germany
+A small CLI-based tool for calculating school marks in Germany
 
 #### Input fields
 - Text
-  - for some notes concerning the subject
+  - some notes concerning the subject
 - Percentage
   - percentage of classtests, e.g. 40 for 40 %
 - Notes
@@ -13,7 +13,7 @@ A little CLI-based tool for calculating school marks in Germany
   
   
 #### Additonal features
-- calculating needed marks for certain average
-  - when typing "b" or "best" in input field "text"
-  - type in the wanted average in the input field "limit" 
-  - the output shows the needed marks for the wanted average 
+- calculating the marks that you need for reaching a certain average
+  1. access this mode with typing `b` or `best` in the input field `text`
+  2. enter the average you want in the input field `limit" 
+  3. the output shows the needed marks for the wanted average 
